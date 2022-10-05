@@ -4,3 +4,14 @@
     color: #7C5E99;
     text-shadow: 4px 4px 0px black;
 }
+
+.title.-second {
+    color: #FFF;
+    text-shadow: none;
+}
+
+.title.-third {
+    color: #FFF;
+    font-size: 20px;
+    text-shadow: none;
+}
