@@ -1,4 +1,4 @@
-.section {
+.main-section {
     font-family: 'Press Start 2P', sans-serif;
     background-color: #7C5E99;
     padding-top: 50px;
@@ -8,14 +8,14 @@
     text-align: center;
 }
 
-.section .main-title {
+.main-section .main-title {
     margin-bottom: 62px;
 }
 
-.section.-bgBlack {
+.main-section.-bgBlack {
     background-color: #000;
 }
 
-.section.-bdFirst {
+.main-section.-bdFirst {
     border-color: #F25A70;
 }
