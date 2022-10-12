@@ -4,7 +4,6 @@
     padding-top: 50px;
     padding-bottom: 100px;
     border-bottom: 10px solid #F25A70;
-    height: 730px;
     text-align: center;
 }
 
@@ -18,4 +17,12 @@
 
 .main-section.-bdFirst {
     border-color: #F25A70;
+}
+
+.main-section.-bgSecond {
+    background-color: #BA1F33;
+}
+
+.main-section.-bdBlack {
+    border-color: #000;
 }
